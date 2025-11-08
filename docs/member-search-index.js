@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"kalkulator","l":"bagi(int, int)","u":"bagi(int,int)"},{"p":"<Unnamed>","c":"kalkulator","l":"kalkulator()","u":"%3Cinit%3E()","k":"3"},{"p":"<Unnamed>","c":"kalkulator","l":"tambah(int, int)","u":"tambah(int,int)"}];updateSearchResults();
