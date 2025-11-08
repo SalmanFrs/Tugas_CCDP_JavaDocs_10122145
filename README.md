@@ -51,5 +51,5 @@ Untuk melihat hasil akhir dokumentasi:
 Jika Anda ingin membuat ulang file dokumentasi, Anda dapat menggunakan perintah berikut di terminal dari folder utama proyek:
 
 ```bash
-javadoc -d docs Kalkulator.java
+javadoc -d docs kalkulator.java
 ```
